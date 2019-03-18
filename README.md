@@ -13,7 +13,7 @@ __该部分代码对应final部分，只更改了rl.py部分，替换tensorflow�
 
 只有part 4,part5,final涉及强化学习，只需要替换rl.py文件即可，api完全兼容。需要新建model目录用来保存模型。
 
-该版本强化学习算法采用的是__DDPG__ 。也是从网上找到的代码，修改了部分api,形成rl.py文件。
+该版本强化学习算法采用的是 __DDPG__  。也是从网上找到的代码，修改了部分api,形成rl.py文件。
 
 参考链接：[Deep-reinforcement-learning-with-pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)
 
